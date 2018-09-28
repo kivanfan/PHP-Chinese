@@ -3,7 +3,7 @@ PHP Chinese Conversion, Simple, Lightweight (v0.2 with WikiMedia Library < 400KB
 
 ## Installation
 ### Composer
-Run `composer require steelywing/chinese`
+Run `composer require kivanfan/ChineseConverter`
 
 ### Manually
 Clone this repo, run `composer dump-autoload` on root directory to 
